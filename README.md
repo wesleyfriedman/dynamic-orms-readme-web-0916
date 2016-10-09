@@ -1,3 +1,4 @@
+FINISHED WALK-THROUGH
 # Dynamic ORMs
 
 ## Objectives
